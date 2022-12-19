@@ -1,7 +1,3 @@
-# Hi ! 👋🏻
-
-
-
 <!--
 **ISHABACHARYA/ISHABACHARYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,18 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is Bijay Chaudhary
+Hi 👋 This is Ishab Acharya
 ================================
 
-Software Developer
-------------------
-
- This is **Ishab** from the Himalayas and born land of Buddha 🧘🏻. A firm believer on 🙏🏻"*How we react to hard times is what makes us a true self.*" **Software Engineer** by education 📖, **Javascript** developer ( react, react-native, node JS )  , **Elixir** developer and **Lecturer** by the professional journey. Trying my best to fulfill my responsibility on giving back to community in 👉🏻 [medium](https://ishab.medium.com)  and [stack-overflow](https://stackoverflow.com/users/7256411/ishab-acharya) . Trek 🧗🏻 to Mountains , Football ⚽️, Basketball ⛹🏻‍♂️, Self helping contents 🧘🏻 and entrepreneurship 💲.
+from the Himalayas and born land of Buddha 🧘🏻. A firm believer on 🙏🏻"*How we react to hard times is what makes us a true self.*" **Software Engineer** by education 📖, **Javascript** developer ( react, react-native, node JS )  , **Elixir** developer and **Lecturer** by the professional journey. Trying my best to fulfill my responsibility on giving back to community in 👉🏻 [medium](https://ishab.medium.com)  and [stack-overflow](https://stackoverflow.com/users/7256411/ishab-acharya) . Trek 🧗🏻 to Mountains , Football ⚽️, Basketball ⛹🏻‍♂️, Self helping contents 🧘🏻 and entrepreneurship 💲.
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [ishabachary@gmail.com](mailto:ishabachary@gmail.com)
 * 🧠  I'm learning Cloud Services
-* 🤝  I'm open to collaborating on React Native
+* 🤝  I'm open to collaborating on React Native 
 * ⚡   Working as a Senior Software Engineer
 
 <a href="https://www.github.com/coderbijay" target="_blank" rel="noreferrer"><img
