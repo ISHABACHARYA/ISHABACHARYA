@@ -24,7 +24,7 @@ from the Himalayas and born land of Buddha 🧘🏻. A firm believer on 🙏🏻
 * ⚡   Working as a Senior Software Engineer
 
 <a href="https://www.github.com/coderbijay" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/coderbijay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/ishabacharya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/coderbijay?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ishabacharya"><img src="https://github-readme-stats.vercel.app/api?username=ishabacharya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="coderbijay's GitHub stats" /></a>
+<a href="http://www.github.com/ishabacharya"><img src="https://github-readme-stats.vercel.app/api?username=ishabacharya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ishabAcharya's GitHub stats" /></a>
 
 <a href="http://www.github.com/ishabacharya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishabacharya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
