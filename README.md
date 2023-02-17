@@ -19,9 +19,9 @@ from the Himalayas and born land of Buddha 🧘🏻. A firm believer on 🙏🏻
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [ishabachary@gmail.com](mailto:ishabachary@gmail.com)
-* 🧠  I'm learning Cloud Services
-* 🤝  I'm open to collaborating on React Native 
-* ⚡   Working as a Senior Software Engineer
+* 🧠  I'm learning Elixir/Phoenix
+* 🤝  I'm open to collaborating on React Native / Elixir
+* ⚡   Current status  "Senior Software Engineer"
 
 <a href="https://www.github.com/coderbijay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ishabacharya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
